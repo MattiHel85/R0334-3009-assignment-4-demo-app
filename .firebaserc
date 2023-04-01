@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "assignment-4-demo-app": {
+      "hosting": {
+        "app": [
+          "assignment-4-demo-app"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "assignment-4-demo-app"
+  }
+}
